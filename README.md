@@ -37,27 +37,30 @@ WordPress 是全球最流行的开源博客与 CMS 系统，拥有丰富的主�
 ### 服务器
 - 推荐配置：**2 核 CPU / 2GB 内存 / 40GB SSD / 3Mbps 带宽**
 - 推荐厂商：Oracle Cloud、Google Cloud、阿里云、京东云、雨云
-- 系统建议：Ubuntu 24.04 LTS
+- 系统建议：Ubuntu、Debian、Alibaba Cloud Linux  
 
 这里新手学习可以选择阿里云68一年  
-![alt text](image\image.png)  
-- 系统选择Ubuntu  
-- 预装软件选择宝塔面板（可以看后面远程安装）  
+<img width="985" height="604" alt="image" src="https://github.com/user-attachments/assets/274f5b0a-4331-434b-ba38-80cfb31d7aa9" />
+  
+- 系统选择Alibaba Cloud Linux
+- 预装软件选择宝塔面板
 
-![服务器位置](image\image2.png)  
+- 到空控制台可以进行详细配置（可以在控制台重置安装的系统）
+<img width="880" height="516" alt="image" src="https://github.com/user-attachments/assets/d7083497-fd6f-42d1-8f3c-d2e5b17caea6" />
+    
 
 ### 开放端口  
 确保服务器安全组开放： 
-- 22（SSH） 
-- 80（HTTP） 
-- 443（HTTPS）  
+- 22（SSH） 必开
+- 80（HTTP） 必开
+- 443（HTTPS） 必开
 - 3389（Windows远程登录）  
 - 21 （FTP服务（命令控制）
 - 8888
 - 888
 - 20（FTP协议）
 
-![端口](image\image3.png)
+
 
 ### 设置密码  
 ![设置密码](image\image4.png)
