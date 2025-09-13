@@ -40,7 +40,7 @@ WordPress 是全球最流行的开源博客与 CMS 系统，拥有丰富的主�
 - 系统建议：Ubuntu、Debian、Alibaba Cloud Linux  
 
 这里新手学习可以选择阿里云68一年  
-<img width="985" height="604" alt="image" src="https://github.com/user-attachments/assets/274f5b0a-4331-434b-ba38-80cfb31d7aa9" />
+<img width="985" height="604" alt="image" src="https://github.com/user-attachments/assets/274f5b0a-4331-434b-ba38-80cfb31d7aa9" />  
   
 - 系统选择Alibaba Cloud Linux
 - 预装软件选择宝塔面板
@@ -59,18 +59,24 @@ WordPress 是全球最流行的开源博客与 CMS 系统，拥有丰富的主�
 - 20（FTP协议）
 
 <img width="1442" height="635" alt="image" src="https://github.com/user-attachments/assets/e7b461fb-988b-4437-b7bf-38992795f896" />  
-<img width="863" height="563" alt="image" src="https://github.com/user-attachments/assets/b0ce59cd-64cb-4cd0-b83e-0b45fc98dca4" />
-<img width="1465" height="650" alt="image" src="https://github.com/user-attachments/assets/f301a58b-4e15-469b-b458-87567b3df19d" />  
-
-
+<img width="863" height="563" alt="image" src="https://github.com/user-attachments/assets/b0ce59cd-64cb-4cd0-b83e-0b45fc98dca4" />    
+<img width="1465" height="650" alt="image" src="https://github.com/user-attachments/assets/f301a58b-4e15-469b-b458-87567b3df19d" />    
 
 ### 设置密码  
 
+<img width="1766" height="1182" alt="image" src="https://github.com/user-attachments/assets/7d3bcff6-64d7-423e-8079-ad7dbb716a49" />    
 
 ### 安装宝塔面板  
-![公网ip](image\image5.png)    
-![安装宝塔](image\image6.png)  
-![安装宝塔LNMP](image\image7.png)
+[宝塔地址](https://www.bt.cn/new/download.html)
+<img width="1397" height="695" alt="image" src="https://github.com/user-attachments/assets/63e0f232-f6ea-444f-a9f7-63bf54f44a14" />    
+<img width="1295" height="627" alt="image" src="https://github.com/user-attachments/assets/ab7b6221-2e89-4129-8bc3-93e5b39695f8" />    
+<img width="1352" height="606" alt="image" src="https://github.com/user-attachments/assets/24a84beb-768b-4582-ad1c-68eb84590e0b" />
+输入y，回车开始安装
+
+###安装完后放行指定的端口，然后打开外网地址，输入账号密码。
+<img width="800" height="396" alt="image" src="https://github.com/user-attachments/assets/3912a28b-19de-4e01-9f7b-708a45ce63ba" />  
+
+
 ### 域名
 
 
@@ -101,7 +107,7 @@ sudo apt update && sudo apt upgrade -y
 
 4.2 安装 LNMP 环境
 
-sudo apt install nginx mysql-server php-fpm php-mysql php-cli php-curl php-xml php-mbstring unzip -y
+sudo apt install nginx mysql-server php-fpm php-mysql php-cli php-curl php-xml php-mbstring unzip -y  
 
 4.3 创建数据库
 
