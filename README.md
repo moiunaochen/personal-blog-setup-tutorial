@@ -45,7 +45,7 @@ WordPress 是全球最流行的开源博客与 CMS 系统，拥有丰富的主�
 - 系统选择Alibaba Cloud Linux
 - 预装软件选择宝塔面板
 
-- 到空控制台可以进行详细配置（可以在控制台重置安装的系统）
+- 购买后到空控制台可以进行详细配置（可以在控制台重置安装的系统）
 <img width="880" height="516" alt="image" src="https://github.com/user-attachments/assets/d7083497-fd6f-42d1-8f3c-d2e5b17caea6" />
     
 
@@ -56,17 +56,19 @@ WordPress 是全球最流行的开源博客与 CMS 系统，拥有丰富的主�
 - 443（HTTPS） 必开
 - 3389（Windows远程登录）  
 - 21 （FTP服务（命令控制）
-- 8888
-- 888
 - 20（FTP协议）
+
+<img width="1442" height="635" alt="image" src="https://github.com/user-attachments/assets/e7b461fb-988b-4437-b7bf-38992795f896" />  
+<img width="863" height="563" alt="image" src="https://github.com/user-attachments/assets/b0ce59cd-64cb-4cd0-b83e-0b45fc98dca4" />
+<img width="1465" height="650" alt="image" src="https://github.com/user-attachments/assets/f301a58b-4e15-469b-b458-87567b3df19d" />  
 
 
 
 ### 设置密码  
-![设置密码](image\image4.png)
+
 
 ### 安装宝塔面板  
-![公网ip](image\image5.png)  
+![公网ip](image\image5.png)    
 ![安装宝塔](image\image6.png)  
 ![安装宝塔LNMP](image\image7.png)
 ### 域名
