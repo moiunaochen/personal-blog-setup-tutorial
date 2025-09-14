@@ -88,7 +88,7 @@ WordPress 是全球最流行的开源博客与 CMS 系统，拥有丰富的主�
 添加站点，（域名那填写自己的公网ip地址）
 <img width="1372" height="858" alt="image" src="https://github.com/user-attachments/assets/da4a04b5-8515-4de5-a9b6-11a5c09b6c7e" />  
 
-[下载WordPress](https://cn.wordpress.org/download/)
+[下载WordPress](https://cn.wordpress.org/download/)  
 <img width="1395" height="823" alt="image" src="https://github.com/user-attachments/assets/17e6b258-a902-41d7-8687-2afca4f43d6c" />  
 
 上传WordPress
@@ -96,6 +96,20 @@ WordPress 是全球最流行的开源博客与 CMS 系统，拥有丰富的主�
 
 将WordPress解压，复制到此目录
 <img width="1423" height="848" alt="image" src="https://github.com/user-attachments/assets/d99654a1-34ba-4fe2-ae35-782ba4ce9ade" />  
+
+打开公网地址，开始配置WordPress
+<img width="1306" height="690" alt="image" src="https://github.com/user-attachments/assets/892ea5b8-d6c7-4b59-96b3-5629e8c39605" />  
+
+[下载博客主题](https://github.com/solstice23/argon-theme/releases/tag/v1.3.5)
+<img width="1588" height="762" alt="image" src="https://github.com/user-attachments/assets/cebcad7b-161c-4df3-9121-17eba119cc3d" />  
+
+上传主题
+<img width="1287" height="574" alt="image" src="https://github.com/user-attachments/assets/dc01fed0-ee85-4aca-8c61-26bb473b081d" />
+
+启用主题
+<img width="1053" height="569" alt="image" src="https://github.com/user-attachments/assets/5a7e0ebf-0170-477f-a5f1-e99055304aac" />  
+<img width="1789" height="881" alt="image" src="https://github.com/user-attachments/assets/70d7d7f5-3b31-4113-b6a4-9a989271fcb7" />
+
 
 
 
