@@ -67,14 +67,46 @@ WordPress 是全球最流行的开源博客与 CMS 系统，拥有丰富的主�
 <img width="1766" height="1182" alt="image" src="https://github.com/user-attachments/assets/7d3bcff6-64d7-423e-8079-ad7dbb716a49" />    
 
 ### 安装宝塔面板  
-[宝塔地址](https://www.bt.cn/new/download.html)
-<img width="1397" height="695" alt="image" src="https://github.com/user-attachments/assets/63e0f232-f6ea-444f-a9f7-63bf54f44a14" />    
+[宝塔地址](https://www.bt.cn/new/download.html)  
+<img width="1397" height="695" alt="image" src="https://github.com/user-attachments/assets/63e0f232-f6ea-444f-a9f7-63bf54f44a14" />      
 <img width="1295" height="627" alt="image" src="https://github.com/user-attachments/assets/ab7b6221-2e89-4129-8bc3-93e5b39695f8" />    
-<img width="1352" height="606" alt="image" src="https://github.com/user-attachments/assets/24a84beb-768b-4582-ad1c-68eb84590e0b" />
+<img width="1352" height="606" alt="image" src="https://github.com/user-attachments/assets/24a84beb-768b-4582-ad1c-68eb84590e0b" />  
 输入y，回车开始安装
 
-###安装完后放行指定的端口，然后打开外网地址，输入账号密码。
-<img width="800" height="396" alt="image" src="https://github.com/user-attachments/assets/3912a28b-19de-4e01-9f7b-708a45ce63ba" />  
+### 安装完后放行指定的端口，然后打开外网地址，输入账号密码  
+<img width="800" height="396" alt="image" src="https://github.com/user-attachments/assets/3912a28b-19de-4e01-9f7b-708a45ce63ba" />    
+
+访问外网ip面板地址，输入刚才生成的账号密码  
+<img width="1128" height="636" alt="image" src="https://github.com/user-attachments/assets/0b841ae6-2372-4e80-b8ed-ba60bf171061" />  
+
+一键安装 推荐的软件
+<img width="1223" height="687" alt="image" src="https://github.com/user-attachments/assets/a0a670b0-ed77-4c3c-bc09-556ed88f8853" />  
+
+点击root生成数据库密码
+<img width="1061" height="569" alt="image" src="https://github.com/user-attachments/assets/f1120a83-97d3-48d4-9978-ca50f3964799" />  
+
+添加站点，（域名那填写自己的公网ip地址）
+<img width="1372" height="858" alt="image" src="https://github.com/user-attachments/assets/da4a04b5-8515-4de5-a9b6-11a5c09b6c7e" />  
+
+[下载WordPress](https://cn.wordpress.org/download/)
+<img width="1395" height="823" alt="image" src="https://github.com/user-attachments/assets/17e6b258-a902-41d7-8687-2afca4f43d6c" />  
+
+上传WordPress
+<img width="1596" height="756" alt="image" src="https://github.com/user-attachments/assets/22d9b26e-0be2-4c73-9e3f-98fe3a96fea1" />  
+
+将WordPress解压，复制到此目录
+<img width="1423" height="848" alt="image" src="https://github.com/user-attachments/assets/d99654a1-34ba-4fe2-ae35-782ba4ce9ade" />  
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### 域名
